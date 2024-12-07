@@ -1,0 +1,7 @@
+Plan:
+
+Implement a function that checks if a single credit card number is valid using the Luhn algorithm;
+
+Implement a function that iterates through a nested array of card numbers and returns a nested array of invalid card numbers
+
+Implement a function that takes the invalid card number and identifies the issuing companies, ensuring NO DUPs
